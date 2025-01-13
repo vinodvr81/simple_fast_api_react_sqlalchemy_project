@@ -69,10 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### For Backend 
+### For Backend installing as a python package
 
 use this command (1) pip install -e .
-then use this (2) uvicorn app.main:my_app --load
+### for running Backend services using python package
+then use this (2) uvicorn app.main:my_app --reload
 
 ### development url links
 
