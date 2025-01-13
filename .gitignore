@@ -1,0 +1,66 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.db
+env/
+.venv/
+instance/
+.pytest_cache/
+*.log
+*.pot
+*.py[cod]
+*$py.class
+*.sqlite
+db.sqlite3
+
+# FastAPI
+/test.db
+/env/
+/__pycache__/
+*.pyc
+*.log
+*.pid
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# React
+build/
+*.lock
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+logs
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*.swn
+
+# Other
+!.gitkeep
